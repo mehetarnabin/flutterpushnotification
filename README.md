@@ -1,6 +1,6 @@
 # flutterpushnotification
 
-A new Flutter application for flutter push notification
+A new Flutter application for push notification
 
 ## Getting Started
 
